@@ -1,0 +1,44 @@
+.body {
+  background-color: #202226;
+  height: 50em;
+  padding-top: 9em;
+}
+.form {
+  margin: 0 auto;
+  padding-top: 3%;
+  text-align: center;
+  box-sizing: border-box;
+  max-width: 400px;
+  height: 350px;
+  background: #2b2e33;
+  border: 2px solid #888888;
+  border-radius: 24px;
+}
+.head {
+  font-size:x-large;
+  color: #ffffff;
+  margin-bottom: 1.5em;
+}
+
+.login {
+  
+  margin-bottom: 3em;
+  background-color: #2b2e33;
+  color: #ffffff;
+  border-bottom: 3px solid #888888;
+}
+
+.password {
+  margin-bottom: 3em;
+  background-color: #2b2e33;
+  color: #ffffff;
+  border-bottom: 3px solid #888888;
+}
+.button {
+  background-color: #4b4b4b;
+  color: #ffffff;
+width: 130px;
+height: 45px;
+border-radius: 9px;
+
+}
